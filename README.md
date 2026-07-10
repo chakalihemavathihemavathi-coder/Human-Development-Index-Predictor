@@ -21,3 +21,20 @@ To analyze health, education and income indicators and predict the development l
 3. Data Analysis and Visualization
 4. Machine Learning Model Development
 5. Prediction using Flask Web Application
+## Input Parameters
+
+- Life Expectancy
+- Education Index
+- Income Index
+
+## Output
+
+- Predicted Human Development Index (HDI)
+
+## Author
+
+Hemavathi Chakali
+
+## License
+
+This project is created for educational purposes as part of the APSCHE SmartBridge Virtual Internship.
