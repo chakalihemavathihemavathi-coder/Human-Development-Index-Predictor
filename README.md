@@ -42,10 +42,10 @@ This project predicts the Human Development Index (HDI) of a country using Machi
 Predicted Human Development Index (HDI)
 
 ## Demo Video
-(Paste your Google Drive demo video link here)
+https://drive.google.com/file/d/1Zqq07CN31tl3wsg5H_7amUhWF_wlogTH/view?usp=drivesdk
 
 ## Live Website
-(Paste your Bolt website link here)
+https://hdi-predictor-websit-gprv.bolt.host
 
 ## Author
 Hemavathi Chakali
