@@ -1,40 +1,51 @@
 # Human Development Index (HDI) Predictor
 
 ## Project Description
-This project predicts the Human Development Index (HDI) of countries using Machine Learning techniques.
+This project predicts the Human Development Index (HDI) of a country using Machine Learning based on Life Expectancy, Education Index, and Income Index.
 
-## Objective
-To analyze health, education and income indicators and predict the development level of a country.
+## Features
+- Predicts HDI using ML model
+- User-friendly web interface
+- Fast and accurate predictions
 
 ## Technologies Used
 - Python
 - Pandas
 - NumPy
 - Scikit-learn
-- Matplotlib
-- Seaborn
 - Flask
+- HTML
+- CSS
 
-## Project Workflow
-1. Data Collection
-2. Data Preprocessing
-3. Data Analysis and Visualization
-4. Machine Learning Model Development
-5. Prediction using Flask Web Application
-## Input Parameters
+## Project Structure
+├── app.py
+├── model.pkl
+├── hdi_data.csv
+├── requirements.txt
+├── templates/
+├── static/
+└── README.md
 
+## Installation
+1. Clone the repository.
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Run:
+   python app.py
+
+## Input
 - Life Expectancy
 - Education Index
 - Income Index
 
 ## Output
+Predicted Human Development Index (HDI)
 
-- Predicted Human Development Index (HDI)
+## Demo Video
+(Paste your Google Drive demo video link here)
+
+## Live Website
+(Paste your Bolt website link here)
 
 ## Author
-
 Hemavathi Chakali
-
-## License
-
-https://drive.google.com/file/d/1Zqq07CN31tl3wsg5H_7amUhWF_wlogTH/view?usp=drivesdk
